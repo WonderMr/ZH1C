@@ -3,7 +3,7 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
 		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="4517ed509501dc9d0e1631f4bd7738ea86c4ddc2"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="f23391fd1a9c4db04250335fb76b0e51f2e8db14"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="73135df4cb1c774406241c24a17bba935ee4a2e6"/>
 		<Metadata name="Language.Русский" id="6a2ff103-d3c8-49c6-b29e-743262ffe238" configVersion="f9d37f8a459ea94b91e7de83a36e0cac1c6f98c5"/>
 		<Metadata name="Role.Ж_ОсновнаяРоль" id="5a688e22-d588-4beb-b309-49f6a9e7356a" configVersion="ae45791b20a8c2a7118de7e540928c54c87f6d51"/>
 	</ConfigVersions>
