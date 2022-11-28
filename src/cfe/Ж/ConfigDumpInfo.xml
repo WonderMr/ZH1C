@@ -6,8 +6,8 @@
 			<Metadata name="Catalog.ЗначенияСвойствОбъектов.Attribute.ПолноеНаименование" id="d923aead-7357-4910-ab38-5e6818f1269d"/>
 		</Metadata>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
-		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="aac967e326dd09f8930bdb4e9a1e2d92bad11a79"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="9974da1d04f25d2037f0b00733da0be83f1729d0"/>
+		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="2ba7d2436e4149145344c5c1e16aa28fdbadfced"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="d2017883ad9dd0bbab4b069c43db35e2cbfbe073"/>
 		<Metadata name="Language.Русский" id="6a2ff103-d3c8-49c6-b29e-743262ffe238" configVersion="f9d37f8a459ea94b91e7de83a36e0cac1c6f98c5"/>
 		<Metadata name="Role.Ж_ОсновнаяРоль" id="5a688e22-d588-4beb-b309-49f6a9e7356a" configVersion="ae45791b20a8c2a7118de7e540928c54c87f6d51"/>
 	</ConfigVersions>
