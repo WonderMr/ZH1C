@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="Catalog.ЗначенияСвойствОбъектов" id="c7e0941d-0144-4e57-ac5e-b4554d1485a8" configVersion="7f936b35438f70f3eb8db8e63c5fcf7c4c756543">
-			<Metadata name="Catalog.ЗначенияСвойствОбъектов.Attribute.Вес" id="18eb7c62-46b6-4278-a3b3-c9987ad18d88"/>
-			<Metadata name="Catalog.ЗначенияСвойствОбъектов.Attribute.ПолноеНаименование" id="d923aead-7357-4910-ab38-5e6818f1269d"/>
-		</Metadata>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
-		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="c992c0ad84ac225a4261b25e4652c4c67c5991a4"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="d2017883ad9dd0bbab4b069c43db35e2cbfbe073"/>
+		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="504270c78955a3f800b3d60a934295818974b3c2"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="1eff2c680dd276b09f98da7074f9a6965763e177"/>
+		<Metadata name="DataProcessor.Ж_ДопРеквизиты" id="9a3844f4-f59a-4257-a458-99f9d7f4c219" configVersion="bbbe2907eae3d1d84e89da961c1c78f4f6073d72"/>
+		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="4e226f6ca2c74a9b8a0ffed83a00add6a463f0d3"/>
+		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ObjectModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.0" configVersion="02aefef26f43139d60c60a80e095d0f42e13b476"/>
 		<Metadata name="Language.Русский" id="6a2ff103-d3c8-49c6-b29e-743262ffe238" configVersion="f9d37f8a459ea94b91e7de83a36e0cac1c6f98c5"/>
 		<Metadata name="Role.Ж_ОсновнаяРоль" id="5a688e22-d588-4beb-b309-49f6a9e7356a" configVersion="ae45791b20a8c2a7118de7e540928c54c87f6d51"/>
 	</ConfigVersions>
