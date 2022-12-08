@@ -3,9 +3,9 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
 		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="97563bf302e7f19cec81a4c873ff2b665dec492e"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="e0a1b0092bab2ce20a6522cc8791045eb5413fcb"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="76e6008ebde8abd828e13d83d5ecc9afc323fb69"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты" id="9a3844f4-f59a-4257-a458-99f9d7f4c219" configVersion="bbbe2907eae3d1d84e89da961c1c78f4f6073d72"/>
-		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="884b1dd027570ed1c78880218a2286f7968aab18"/>
+		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="828ae0decf524dbd1d5f852173307352267fca2d"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ObjectModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.0" configVersion="51580eb3e75a510e61a15c9d9dc2a648f5af8d63"/>
 		<Metadata name="Language.Русский" id="6a2ff103-d3c8-49c6-b29e-743262ffe238" configVersion="59cfefa6ad9ac8cc0728b907deb0a4399dbd5e4e"/>
 		<Metadata name="Role.Ж_ОсновнаяРоль" id="5a688e22-d588-4beb-b309-49f6a9e7356a" configVersion="ae45791b20a8c2a7118de7e540928c54c87f6d51"/>
