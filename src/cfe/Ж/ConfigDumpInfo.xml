@@ -2,16 +2,18 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
-		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="087b52f6adef7acdf353950de62da97fb43df345"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="8b7f9a1ab813e4efc1ce01a8e6e0ae70e2ff4d66"/>
+		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="24cbe7242559243cd7c4122786e365dfff6b137b"/>
+		<Metadata name="CommonModule.Ж_ЗУП" id="8ba5ca96-2ae3-4bc3-b654-c27b9aa56d16" configVersion="71a2fffcce0ba1c0434fbd6a9c8c242f450a373f"/>
+		<Metadata name="CommonModule.Ж_ЗУП.Module" id="8ba5ca96-2ae3-4bc3-b654-c27b9aa56d16.0" configVersion="dc0de36892d7cec082af4ff81b7831dee73bb543"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="40300969cad77cd658767578315756efbefb5dfc"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты" id="9a3844f4-f59a-4257-a458-99f9d7f4c219" configVersion="bbbe2907eae3d1d84e89da961c1c78f4f6073d72"/>
-		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="c21df62d723c05e1153f14178eabf88945e76512"/>
+		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="af249f1d619156b41c2560cbeb850284247f315e"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ObjectModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.0" configVersion="51580eb3e75a510e61a15c9d9dc2a648f5af8d63"/>
 		<Metadata name="InformationRegister.Ж_Ожидание" id="fdb43038-55af-40a6-8d9d-3b6017f3c200" configVersion="23dd0053e69c0cb6db3f4c9b88f75f6db265622f">
 			<Metadata name="InformationRegister.Ж_Ожидание.Dimension.Идентификатор" id="b05d01ac-97d1-432d-80bd-8e57ffea8456"/>
 		</Metadata>
 		<Metadata name="InformationRegister.Ж_Ожидание.ManagerModule" id="fdb43038-55af-40a6-8d9d-3b6017f3c200.2" configVersion="ae3a784ce66e6a4f20271d6973329551bc76fb6d"/>
-		<Metadata name="Language.Русский" id="6a2ff103-d3c8-49c6-b29e-743262ffe238" configVersion="f9d37f8a459ea94b91e7de83a36e0cac1c6f98c5"/>
+		<Metadata name="Language.Русский" id="6a2ff103-d3c8-49c6-b29e-743262ffe238" configVersion="55189271964560db1c1d0014110e4616122c5c17"/>
 		<Metadata name="Role.Ж_ОсновнаяРоль" id="5a688e22-d588-4beb-b309-49f6a9e7356a" configVersion="ae45791b20a8c2a7118de7e540928c54c87f6d51"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

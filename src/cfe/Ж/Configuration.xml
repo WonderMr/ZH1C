@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>2023.02.17</Version>
+			<Version>2023.04.09</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -65,6 +65,7 @@
 			<Language>Русский</Language>
 			<Role>Ж_ОсновнаяРоль</Role>
 			<CommonModule>Ж_ext</CommonModule>
+			<CommonModule>Ж_ЗУП</CommonModule>
 			<DataProcessor>Ж_ДопРеквизиты</DataProcessor>
 			<InformationRegister>Ж_Ожидание</InformationRegister>
 		</ChildObjects>
