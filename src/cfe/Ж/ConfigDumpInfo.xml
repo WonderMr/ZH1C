@@ -2,10 +2,10 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
-		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="bef65942cdfa4b6600a54ae55552a3dcd476fb1e"/>
+		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="d485d358dd3c2267c118c0306745a16119f3d810"/>
 		<Metadata name="CommonModule.Ж_ЗУП" id="8ba5ca96-2ae3-4bc3-b654-c27b9aa56d16" configVersion="71a2fffcce0ba1c0434fbd6a9c8c242f450a373f"/>
 		<Metadata name="CommonModule.Ж_ЗУП.Module" id="8ba5ca96-2ae3-4bc3-b654-c27b9aa56d16.0" configVersion="dc0de36892d7cec082af4ff81b7831dee73bb543"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="3f0fa4ae1342ff09a373e57e771986a883348e78"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="7ebd117e6aa41b9932b2c59ed36dd76689decf60"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты" id="9a3844f4-f59a-4257-a458-99f9d7f4c219" configVersion="bbbe2907eae3d1d84e89da961c1c78f4f6073d72"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="7385be0212c5be53b8cb8ddfc68a625858e7997c"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ObjectModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.0" configVersion="51580eb3e75a510e61a15c9d9dc2a648f5af8d63"/>
