@@ -52,8 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>2023.08.10/2</Version>
-			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<Version>2023.08.10/3</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -62,8 +61,6 @@
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
-			<Language>Русский</Language>
-			<Role>Ж_ОсновнаяРоль</Role>
 			<CommonModule>Ж_ext</CommonModule>
 			<CommonModule>Ж_ЗУП</CommonModule>
 			<DataProcessor>Ж_ДопРеквизиты</DataProcessor>
