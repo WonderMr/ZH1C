@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>2023.08.10/3</Version>
+			<Version>2023.08.23</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -63,6 +63,9 @@
 		<ChildObjects>
 			<CommonModule>Ж_ext</CommonModule>
 			<CommonModule>Ж_ЗУП</CommonModule>
+			<Catalog>ГруппыДоступа</Catalog>
+			<Catalog>ИдентификаторыОбъектовРасширений</Catalog>
+			<Catalog>ПрофилиГруппДоступа</Catalog>
 			<DataProcessor>Ж_ДопРеквизиты</DataProcessor>
 			<InformationRegister>Ж_Ожидание</InformationRegister>
 		</ChildObjects>
