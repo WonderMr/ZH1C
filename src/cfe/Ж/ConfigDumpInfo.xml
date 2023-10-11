@@ -12,10 +12,10 @@
 			<Metadata name="Catalog.ПрофилиГруппДоступа.TabularSection.Роли.Attribute.Роль" id="b4e96268-b6f6-4a4c-b352-6600c1d8b808"/>
 		</Metadata>
 		<Metadata name="CommonModule.Ж_ext" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599" configVersion="a8cbb1c9b5def65c4418f412d08a984aa4ac113f"/>
-		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="26a2a09e17dca316bb810c499a9a0932600f37e3"/>
+		<Metadata name="CommonModule.Ж_ext.Module" id="85e35e5e-bdb0-4e56-8ceb-8e86de1fd599.0" configVersion="f8769acaa8c9b3a809ce0f97896bc1b8d2f5d885"/>
 		<Metadata name="CommonModule.Ж_ЗУП" id="8ba5ca96-2ae3-4bc3-b654-c27b9aa56d16" configVersion="71a2fffcce0ba1c0434fbd6a9c8c242f450a373f"/>
 		<Metadata name="CommonModule.Ж_ЗУП.Module" id="8ba5ca96-2ae3-4bc3-b654-c27b9aa56d16.0" configVersion="5c4533f29b9faab5bdf9b7a05e72e5292216d2e7"/>
-		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="6b411cfeff48e361437dc1396c7f87714719d89b"/>
+		<Metadata name="Configuration.Ж" id="b6d2c18f-e4d9-4109-92aa-d3af2a6e1025" configVersion="ea831f743cd218aef9c924aa310574609785317b"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты" id="9a3844f4-f59a-4257-a458-99f9d7f4c219" configVersion="bbbe2907eae3d1d84e89da961c1c78f4f6073d72"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ManagerModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.2" configVersion="7b650adb27dac3e852a1fe37df5c28b5d48b364d"/>
 		<Metadata name="DataProcessor.Ж_ДопРеквизиты.ObjectModule" id="9a3844f4-f59a-4257-a458-99f9d7f4c219.0" configVersion="4284d2bbea061be9fe3ceed1d6d290537172cebc"/>
