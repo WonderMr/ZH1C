@@ -1,0 +1,17 @@
+# ZH1C
+
+> 1C:Enterprise 8.3 configuration extension `Ж` with reusable server-side helpers: event log, dates, strings, JSON, additional attributes and ЗУП lookups.
+
+ZH1C contains the extension `Ж` (object prefix `Ж_`, purpose AddOn, compatibility mode 8.3.11) as a built `Ж.cfe` and as a Designer XML/BSL dump in `src/cfe/Ж`. Its common modules `Ж_ext` and `Ж_ЗУП` export server-only functions that other 1C code calls; the data processor `Ж_ДопРеквизиты` reads and writes БСП additional attributes.
+
+## Docs
+
+- [README](https://github.com/WonderMr/ZH1C/blob/main/README.md): what the extension contains, requirements and usage
+- [AGENTS.md](https://github.com/WonderMr/ZH1C/blob/main/AGENTS.md): layout, rebuild notes, conventions and gotchas for coding agents
+
+## Source
+
+- [Ж_ext](https://github.com/WonderMr/ZH1C/blob/main/src/cfe/Ж/CommonModules/Ж_ext/Ext/Module.bsl): general helper functions
+- [Ж_ЗУП](https://github.com/WonderMr/ZH1C/blob/main/src/cfe/Ж/CommonModules/Ж_ЗУП/Ext/Module.bsl): person and user lookups
+- [Ж_ДопРеквизиты](https://github.com/WonderMr/ZH1C/blob/main/src/cfe/Ж/DataProcessors/Ж_ДопРеквизиты/Ext/ManagerModule.bsl): additional-attribute storage
+- [Configuration.xml](https://github.com/WonderMr/ZH1C/blob/main/src/cfe/Ж/Configuration.xml): extension properties and version
